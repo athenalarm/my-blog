@@ -1,5 +1,5 @@
 # Website Basic Information
-baseURL = "https://example.com/"    # Placeholder URL, change to Cloudflare Pages URL after deployment
+baseURL = "https://blog.athenalarm.com/"    # Placeholder URL, change to Cloudflare Pages URL after deployment
 title = "Athenalarm"
 languageCode = "en-us"
 theme = "ananke"
