@@ -30,7 +30,7 @@ Stay updated with our latest security innovations, case studies, and product rel
 
 - [LinkedIn](https://www.linkedin.com/company/athenalarm)
 - [Facebook](https://www.facebook.com/athenalarm)
-- [YouTube](https://www.youtube.com/@athenalarm)
+- [YouTube](https://www.youtube.com/@athenalarm3663)
 - [Instagram](https://www.instagram.com/athenalarm)
 
 ---
