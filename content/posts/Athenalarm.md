@@ -5,31 +5,30 @@ draft: false
 type: "posts"
 ---
 
-<style>
-  .container { max-width: 1200px; margin: auto; padding: 20px; font-family: Arial, sans-serif; line-height: 1.6; color:#333; }
-  h1, h2, h3 { text-align: center; }
-  img { display: block; margin: 20px auto; max-width: 100%; height: auto; }
-  .video-container { position: relative; width: 100%; padding-bottom: 56.25%; height: 0; margin: 20px 0; }
-  .video-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0; }
-  .table-container { overflow-x: auto; margin: 20px 0; }
-  table { width: 100%; border-collapse: collapse; }
-  table, th, td { border: 1px solid #ccc; }
-  th, td { padding: 10px; text-align: left; }
-  .button-container { text-align: center; margin: 20px 0; }
-  .btn { display: inline-block; padding: 12px 24px; margin: 5px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; min-width: 200px; }
-  .btn-green { background-color: #28a745; }
-  .social-links { list-style: none; padding: 0; margin: 0; }
-  .social-links li { text-align: left; margin: 5px 0; }
-  .feature-list, .testimonial-list { line-height: 1.6; }
-  @media screen and (max-width: 768px) {
-    table, th, td { font-size: 14px; }
-    .btn { display: block; width: 100%; box-sizing: border-box; }
-  }
-</style>
-
 <div class="container">
 
-<img src="https://athenalarm.com/wp-content/uploads/2022/05/Athenalarm-burglar-alarms-1024.jpg" alt="Industrial AS-9000 series alarm panels installed in a commercial complex">
+<style>
+.container { max-width: 1200px; margin: auto; padding: 20px; font-family: Arial, sans-serif; line-height: 1.6; color:#333; }
+h1, h2, h3 { text-align: center; }
+img { display: block; margin: 20px auto; max-width: 100%; height: auto; }
+.video-container { position: relative; width: 100%; padding-bottom: 56.25%; height: 0; margin: 20px 0; }
+.video-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0; }
+.table-container { overflow-x: auto; margin: 20px 0; }
+table { width: 100%; border-collapse: collapse; }
+table, th, td { border: 1px solid #ccc; }
+th, td { padding: 10px; text-align: left; }
+.button-container { text-align: center; margin: 20px 0; }
+.btn { display: inline-block; padding: 12px 24px; margin: 5px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; min-width: 200px; }
+.btn-green { background-color: #28a745; }
+.social-links { list-style: none; padding: 0; margin: 0; }
+.social-links li { text-align: left; margin: 5px 0; }
+.feature-list, .testimonial-list { line-height: 1.6; }
+@media screen and (max-width: 768px) {
+  table, th, td { font-size: 14px; }
+  .btn { display: block; width: 100%; box-sizing: border-box; }
+}
+</style>
+
 <h1>Athenalarm – Professional Burglar Alarm Manufacturer & Network Alarm Monitoring Solutions</h1>
 <img src="https://athenalarm.com/wp-content/uploads/2025/05/athenalarm_home.png" alt="Athenalarm Logo">
 
@@ -139,6 +138,4 @@ type: "posts"
 <li><a href="https://twitter.com/Athenalarm" target="_blank">X/Twitter</a></li>
 </ul>
 
-<script>
-  document.getElementById('currentYear').textContent = new Date().getFullYear();
-</script>
+</div>
