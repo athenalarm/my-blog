@@ -25,7 +25,7 @@ In addition, we offer OEM and custom branding services, enabling partners to lau
 |--------------|-------------|-----------|
 | AS-9000 Series Alarm Panels | Multi-channel communication (PSTN, 4G, TCP/IP), expandable zones (16 wired, 30 wireless, up to 1,656 via modules), LCD keypad with voice prompts, tamper detection, automatic event logging | Banks, industrial parks, schools, commercial complexes, residential communities |
 | Network Alarm Monitoring Solutions | Centralized management, integrates intrusion alarms with CCTV & cloud platforms, real-time alarm pop-ups, video recording, multi-level forwarding, remote diagnostics | Bank branches, ATMs, vaults, hotels, stores, enterprises, perimeters, residential communities |
-| AA-100 Series Motion Sensors | Customizable voice alerts (MP3), bidirectional playback, mute alarm mode, wired/wireless integration, dual lighting modes | Retail spaces, hospitals, offices, hotels, banks, warehouses, residential sites |
+| AA-100 Series Voice Reminders | Customizable voice alerts (MP3), bidirectional playback, mute alarm mode, wired/wireless integration, dual lighting modes | Retail spaces, hospitals, offices, hotels, banks, warehouses, residential sites |
 | Alarm Detectors | PIR motion sensors (AT-805, AT-806), photoelectric smoke detector (AS-603PC), gas detector (AS-705), digital vibration detector (AS-971), door contact (AA-56), panic buttons (AA-28B, AA-07) | Homes, offices, banks, hotels, hospitals, warehouses, retail spaces |
 | Smart Home Systems | GSM/WIFI alarm system (AS-6000), integrates with other sensors and panels for automated alerts and remote monitoring | Residential communities, offices, small businesses |
 
