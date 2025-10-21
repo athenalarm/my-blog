@@ -1,12 +1,12 @@
 # Website Basic Information
 baseURL = "https://blog.athenalarm.com/"    # Placeholder URL, change to Cloudflare Pages URL after deployment
-title = "Athenalarm"
+title = "Athenalarm Blog"
 languageCode = "en-us"
 theme = "ananke"
 
 # Author Information (optional)
 [author]
-  name = "Athenalarm Blog"
+  name = "Athenalarm"
   email = "info@athenalarm.com"
 
 # Website Menu (optional)
@@ -28,3 +28,9 @@ theme = "ananke"
     name = "Contact"
     url = "/contact/"
     weight = 3
+
+# ---------------------------
+# Home Page Settings
+# ---------------------------
+paginate = 5          # 首页显示最新 5 篇文章
+mainSections = ["posts"]  # Home 页面只显示 type 为 "posts" 的文章
