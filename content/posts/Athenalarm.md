@@ -5,26 +5,21 @@ draft: false
 type: "posts"
 ---
 
-# Athenalarm – Professional Burglar Alarm Manufacturer & Network Alarm Monitoring Solutions
-
-![Industrial AS-9000 series alarm panels installed in a commercial complex](https://athenalarm.com/wp-content/uploads/2022/05/Athenalarm-burglar-alarms-1024.jpg)
-
 ![Athenalarm Logo](https://athenalarm.com/wp-content/uploads/2025/05/athenalarm_home.png)
 
 ## Overview
 
 Founded in 2006, Athenalarm is a professional burglar alarm manufacturer specializing in intrusion alarm and network alarm monitoring systems. Our products provide reliable, practical security solutions for businesses, institutions, and residential communities. We focus on industrial-grade intruder alarm systems that combine intrusion alarms with CCTV for real-time verification, supporting remote diagnostics and centralized management. These systems are suitable for diverse sectors including banking, education, retail, healthcare, and residential communities, and are trusted by clients worldwide.
 
-![Athenalarm Factory](https://athenalarm.com/wp-content/uploads/2022/05/Athenalarm-factory-03-540.jpg)
-
 Our extensive product range covers alarm panels, alarm software, motion sensors, alarm detectors, alarm components, smart home systems, and voice reminder devices. These burglar alarm products provide comprehensive security coverage for various applications, from bank vaults to community perimeters and enterprise facilities.
-
-[Watch Video 1](https://www.youtube.com/watch?v=fxNFCblKrTA)  
-[Watch Video 2](https://www.youtube.com/watch?v=FouMQpGDZNk)
 
 In addition, we offer OEM and custom branding services, enabling partners to launch private-label intrusion alarm systems with hardware customization, multilingual manuals, and packaging support. Whether you are a distributor, integrator, or end-user, Athenalarm’s offerings allow seamless deployment of professional security solutions worldwide.
 
+![Athenalarm Factory](https://athenalarm.com/wp-content/uploads/2022/05/Athenalarm-factory-03-540.jpg)
+
 ## Products
+
+![Industrial AS-9000 series alarm panels installed in a commercial complex](https://athenalarm.com/wp-content/uploads/2022/05/Athenalarm-burglar-alarms-1024.jpg)
 
 | Product Line | Key Benefits | Ideal For |
 |--------------|-------------|-----------|
@@ -33,6 +28,9 @@ In addition, we offer OEM and custom branding services, enabling partners to lau
 | AA-100 Series Motion Sensors | Customizable voice alerts (MP3), bidirectional playback, mute alarm mode, wired/wireless integration, dual lighting modes | Retail spaces, hospitals, offices, hotels, banks, warehouses, residential sites |
 | Alarm Detectors | PIR motion sensors (AT-805, AT-806), photoelectric smoke detector (AS-603PC), gas detector (AS-705), digital vibration detector (AS-971), door contact (AA-56), panic buttons (AA-28B, AA-07) | Homes, offices, banks, hotels, hospitals, warehouses, retail spaces |
 | Smart Home Systems | GSM/WIFI alarm system (AS-6000), integrates with other sensors and panels for automated alerts and remote monitoring | Residential communities, offices, small businesses |
+
+[Watch Video 1](https://www.youtube.com/watch?v=fxNFCblKrTA)  
+[Watch Video 2](https://www.youtube.com/watch?v=FouMQpGDZNk)
 
 ## OEM & Custom Branding Services
 
