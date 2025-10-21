@@ -2,6 +2,7 @@
 title: "Athenalarm"
 date: 2025-10-20T21:00:00+08:00
 draft: false
+type: "posts"
 ---
 
 Founded in 2006, Athenalarm is a professional burglar alarm manufacturer specializing in research, design, manufacturing burglar alarms, and providing integrated network alarm system solutions for our customers. According to the customers’ requirements, we can customize product development.
